@@ -8,22 +8,22 @@
 	<url>${maven.url}</url>
 
 	<parent>
-		<groupId>com.tricouonsel</groupId>
-		<artifactId>communication</artifactId>
+		<groupId>com.myproject</groupId>
+		<artifactId>blank</artifactId>
 		<version>0.0.1.DEV</version>
 	</parent>
 
 	<dependencies>		
 		<dependency>
-			<groupId>com.tricouonsel</groupId>
+			<groupId>com.myproject</groupId>
 			<artifactId>dao</artifactId>
-			<version>${tricouonsel.version}</version>
+			<version>${myproject.version}</version>
 		</dependency>
 
 			<dependency>
-			<groupId>com.tricouonsel</groupId>
+			<groupId>com.myproject</groupId>
 			<artifactId>core</artifactId>
-			<version>${tricouonsel.version}</version>
+			<version>${myproject.version}</version>
 		</dependency>
 	</dependencies>
 	

@@ -8,8 +8,8 @@
 	<url>${maven.url}</url>
 
 	<parent>
-		<groupId>com.tricouonsel</groupId>
-		<artifactId>communication</artifactId>
+		<groupId>com.myproject</groupId>
+		<artifactId>blank</artifactId>
 		<version>0.0.1.DEV</version>
 	</parent>
 	

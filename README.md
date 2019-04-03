@@ -1,2 +1,1 @@
-# communication
-Email and mobile communication services
+# Blank spring boot multi module application

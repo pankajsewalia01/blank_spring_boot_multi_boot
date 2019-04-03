@@ -4,18 +4,18 @@
 
 
     <modelVersion>4.0.0</modelVersion>
-	<name>TC-communication</name>
-	<groupId>com.tricouonsel</groupId>
-	<artifactId>communication</artifactId>
+	<name>TC-blank</name>
+	<groupId>com.myproject</groupId>
+	<artifactId>blank</artifactId>
 	<version>0.0.1.DEV</version>
 	<packaging>pom</packaging>
 	
 	
 	<properties>	
-		<tricouonsel>communication</tricouonsel>
-		<tricouonsel.group>com.tricouonsel</tricouonsel.group>
-		<tricouonsel.version>0.0.1.DEV</tricouonsel.version>
-		<tricouonsel.model>4.0.0</tricouonsel.model>
+		<myproject>blank</myproject>
+		<myproject.group>com.myproject</myproject.group>
+		<myproject.version>0.0.1.DEV</myproject.version>
+		<myproject.model>4.0.0</myproject.model>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
